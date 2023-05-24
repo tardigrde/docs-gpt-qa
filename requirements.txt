@@ -1,0 +1,7 @@
+requests 
+beautifulsoup4
+langchain
+openai
+chromadb
+tiktoken
+unstructured
