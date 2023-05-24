@@ -31,7 +31,6 @@ def main():
 
     # Interactive questions and answers
     while True:
-        # query = "What are the 4 Chains used during Question Answering?"
         query = input("\nEnter a query: ")
         if query == "q":
             break
